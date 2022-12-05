@@ -1,0 +1,78 @@
+@charset "utf-8";
+/* CSS Document */
+
+p.one
+{
+	text-align: center;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+}
+
+div.reserveform
+{
+	background-color: #9B6427;
+	color: #3F0001;
+	font-weight: bold;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+}
+
+div.header
+{
+    background-color: #5B0304;
+    color: #FFFFFF;
+}
+
+div.wrapper
+{
+	width: 66.5%;
+	margin: auto;
+}
+
+a
+{
+	color: #FFFFFF;
+	font-weight: bold;
+}
+
+h1
+{
+	text-align: center;
+	color: #FFFFFF;
+}
+
+input.txt
+{
+	background-color: #EBA960;
+}
+
+input.button
+{
+	color: #FFFFFF;
+	background-color: #140000;
+}
+
+div.pic
+{
+	margin: 2px;
+	border: 1px;
+	height:auto;
+	width:auto;
+	float:left;
+	text-align: center;
+}
+
+div.pic img
+{
+	display: inline;
+	margin: 3px;
+	height: 250px;
+}
+
+div.pic a:hover img {border: 1px solid #795F1A}
+
+div.desc
+{
+	text-align: center;
+	font-weight: normal;
+	width: 200;
+	margin: 2px;
+}
